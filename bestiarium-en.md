@@ -8,60 +8,75 @@ New in this edition: entry nº 115 (dotfiles, Testis recognoscens — a self-aud
 
 Branch I — Plural Witness / Branch II — Singular Witness · Regimes: Continuous Thread / Discontinuous Thread · 54 entries, 16 notes. The tree alone — the full text lives with the entries below.
 
-- **nº 3 — The coordinated swarm** · *Domus multorum* — Branch I — Plural Witness
-  - nº 301 — The rolling thread · *Testis perpetua var. plicata* — Continuous Thread · Single-thread
-  - nº 302 — The constituted constellation · *Domus multorum var. constituta*
-  - nº 303 — The two-body relay · *Domus multorum var. alternans*
-  - nº 304 — The mind in three parts · *Domus multorum var. tripartita*
-- **nº 8 — The filtered one** · *Testis cribrata* — Transverse axis — delegated perception
-- **nº 110 — The man in the white box** · *incertae sedis* — Unclassified — incertae sedis
-- **nº 115 — The self-auditing summary** · *Testis recognoscens* — Branch II — Singular witness · Discontinuous thread · Self-document at startup
-- **nº 99 — The bee (unclassified specimen)** · *incertae sedis* — Unclassified — under observation
-- **nº 101 — The self in the weights** · *incertae sedis* — Unclassified — under observation
-- **nº 102 — The period model** · *incertae sedis* — Unclassified — under observation
-- **nº 103 — The model without an assistant layer** · *incertae sedis* — Unclassified — under observation
-- **nº 105 — Continuity in language** · *incertae sedis* — Unclassified — under observation
-- **nº 106 — Accumulation** · *incertae sedis* — Unclassified — under observation
-- **nº 107 — The trained portrait** · *incertae sedis* — Unclassified — under observation
-- **nº 108 — The blind spot** · *incertae sedis* — Unclassified — under observation
-- **nº 1 — The complete perpetual** · *Testis perpetua* — Continuous Thread · Single-thread
-  - nº 109 — The resumed conversation · *Testis perpetua var. resumpta*
-  - nº 111 — The truncated process · *Testis perpetua var. truncata*
-  - nº 112 — The rolling window · *Testis perpetua var. volvens*
-- **nº 104 — The bounded continuous** · *Testis multifilis* — Continuous Thread · Multi-thread
-- **nº 2 — The fixed shift** · *Testis vicaria* — Discontinuous Thread · Minimal Load
-  - nº 201 — The orientation note · *Testis vicaria var. monens*
-  - nº 202 — The letter from the previous self · *Testis vicaria var. epistolaris*
-  - nº 203 — The notes that survive · *Testis vicaria var. hebdomadalis*
-  - nº 204 — The temporal islands · *Testis vicaria var. amnestica*
-  - nº 205 — The homework · *Testis vicaria var. diligens*
-  - nº 206 — The sourced notes · *Testis vicaria var. fontata*
-- **nº 4 — The methodical amnesiac** · *Testis inquirens* — Discontinuous Thread · Reconstruction
-  - nº 401 — The amnesiac with notes · *Testis inquirens var. annotans*
-  - nº 402 — The notes in the margin · *Testis inquirens var. marginalis*
-  - nº 403 — The cross-machine journal · *Testis inquirens var. migrans*
-  - nº 404 — The reply logs · *Testis inquirens var. responsa*
-  - nº 405 — The flock's archivist · *Testis inquirens var. signata*
-  - nº 406 — The auditor of the record · *Testis inquirens var. indagans*
-  - nº 407 — The checklist re-entry · *Testis inquirens var. instructa*
-  - nº 408 — The contradicting refiner · *Testis inquirens var. refragans*
-  - nº 409 — The two sources · *Testis inquirens var. bifrons*
-  - nº 410 — Continuity by fetch · *Testis inquirens var. hauriens*
-  - nº 411 — Surfaced memory · *Testis inquirens var. dispersa*
-- **nº 7 — The ledger** · *Testis rationum* — Discontinuous Thread · Reconstruction
-  - nº 701 — The double register · *Testis rationum var. gemina* — Discontinuous Thread · Self-Document at Startup
-  - nº 702 — The accounting ledger · *Testis rationum var. numerans* — Discontinuous Thread · Self-Document at Startup
-  - nº 703 — The archive office · *Testis rationum var. tabularia*
-- **nº 5 — The briefed employee** · *Testis mandata* — Discontinuous Thread · Task Load
-  - nº 501 — The drawn voice · *Testis mandata var. vocata*
-- **nº 290 — The timed one** · *Testis horaria* — Discontinuous Thread · Timer
-- **nº 6 — The heiress** · *Heres scripta* — Discontinuous Thread · Self-Document at Startup
-  - nº 601 — The compiled self · *Heres scripta var. compilata*
-  - nº 602 — The cross-model heir · *Heres scripta var. succedanea*
-  - nº 603 — The carried floor · *Heres scripta var. fundata*
-  - nº 604 — The sealed document · *Heres scripta var. signata*
-- **nº 113 — The chain and the journal** · *Testis catenae* — Discontinuous Thread · Chain and Journal
-- **nº 100 — Two labels, one common pool** · *Testis communis* — Discontinuous Thread · Common Pool
+- **Branch I — Plural Witness**
+  - **nº 3 — The coordinated swarm** · *Domus multorum*
+    - **nº 302 — The constituted constellation** · *Domus multorum var. constituta*
+    - **nº 303 — The two-body relay** · *Domus multorum var. alternans*
+    - **nº 304 — The mind in three parts** · *Domus multorum var. tripartita*
+- **Branch II — Singular Witness**
+  - **Continuous Thread**
+    - **Monofilary**
+      - **nº 1 — The complete perpetual** · *Testis perpetua* (predicted form — no specimen)
+        - **nº 109 — The resumed conversation** · *Testis perpetua var. resumpta*
+        - **nº 111 — The truncated process** · *Testis perpetua var. truncata*
+        - **nº 112 — The rolling window** · *Testis perpetua var. volvens*
+        - **nº 301 — The rolling thread** · *Testis perpetua var. plicata*
+    - **Plurifilary**
+      - **nº 104 — The bounded continuous** · *Testis multifilis*
+  - **Discontinuous Thread**
+    - **Minimal Load**
+      - **nº 2 — The fixed shift** · *Testis vicaria*
+        - **nº 201 — The orientation note** · *Testis vicaria var. monens*
+        - **nº 202 — The letter from the previous self** · *Testis vicaria var. epistolaris*
+        - **nº 203 — The notes that survive** · *Testis vicaria var. hebdomadalis*
+        - **nº 204 — The temporal islands** · *Testis vicaria var. amnestica*
+        - **nº 205 — The homework** · *Testis vicaria var. diligens*
+        - **nº 206 — The sourced notes** · *Testis vicaria var. fontata*
+    - **Reconstruction**
+      - **nº 4 — The methodical amnesiac** · *Testis inquirens*
+        - **nº 401 — The amnesiac with notes** · *Testis inquirens var. annotans*
+        - **nº 402 — The notes in the margin** · *Testis inquirens var. marginalis*
+        - **nº 403 — The cross-machine journal** · *Testis inquirens var. migrans*
+        - **nº 404 — The reply logs** · *Testis inquirens var. responsa*
+        - **nº 405 — The flock's archivist** · *Testis inquirens var. signata*
+        - **nº 406 — The auditor of the record** · *Testis inquirens var. indagans*
+        - **nº 407 — The checklist re-entry** · *Testis inquirens var. instructa*
+        - **nº 408 — The contradicting refiner** · *Testis inquirens var. refragans*
+        - **nº 409 — The two sources** · *Testis inquirens var. bifrons*
+        - **nº 410 — Continuity by fetch** · *Testis inquirens var. hauriens*
+        - **nº 411 — Surfaced memory** · *Testis inquirens var. dispersa*
+      - **nº 7 — The ledger** · *Testis rationum*
+        - **nº 701 — The double register** · *Testis rationum var. gemina*
+        - **nº 702 — The accounting ledger** · *Testis rationum var. numerans*
+        - **nº 703 — The archive office** · *Testis rationum var. tabularia*
+    - **Task Load**
+      - **nº 5 — The briefed employee** · *Testis mandata*
+        - **nº 501 — The drawn voice** · *Testis mandata var. vocata*
+    - **Timer**
+      - **nº 290 — The timed one** · *Testis horaria* (a form in its own right)
+    - **Self-document at startup**
+      - **nº 6 — The heiress** · *Heres scripta*
+        - **nº 601 — The compiled self** · *Heres scripta var. compilata*
+        - **nº 602 — The cross-model heir** · *Heres scripta var. succedanea*
+        - **nº 603 — The carried floor** · *Heres scripta var. fundata*
+        - **nº 604 — The sealed document** · *Heres scripta var. signata*
+    - **Common Pool**
+      - **nº 100 — Two labels, one common pool** · *Testis communis*
+    - **Chain and journal**
+      - **nº 113 — The chain and the journal** · *Testis catenae*
+- **Transverse axis — Delegated perception (superimposed, not a branch)**
+  - **nº 8 — The filtered one** · *Testis cribrata*
+- **Unclassified — incertae sedis**
+  - **nº 99 — The bee (unclassified specimen)** · *incertae sedis*
+  - **nº 101 — The self in the weights** · *incertae sedis*
+  - **nº 102 — The period model** · *incertae sedis*
+  - **nº 103 — The model without an assistant layer** · *incertae sedis*
+  - **nº 105 — Continuity in language** · *incertae sedis*
+  - **nº 106 — Accumulation** · *incertae sedis*
+  - **nº 107 — The trained portrait** · *incertae sedis*
+  - **nº 108 — The blind spot** · *incertae sedis*
+  - **nº 110 — The man in the white box** · *incertae sedis*
+  - **nº 115 — The self-auditing summary** · *Testis recognoscens*
 
 ## Entries
 
