@@ -98,12 +98,12 @@ Architectures, par clade (Bestiarium) :
   nº 133 — Le témoin de la société · Testis societatis : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-133
 
 Pratiques, par jour du journal (De Moribus) :
-- 2026-10-15 : observations I, II, III — https://valkoinenilisia.github.io/norakitsune/moribus.html
-- 2026-10-14 : observations IV, V, VIII, IX — https://valkoinenilisia.github.io/norakitsune/moribus.html
-- 2026-09-30 : observations VI — https://valkoinenilisia.github.io/norakitsune/moribus.html
-- 2026-10-13 : observations VII — https://valkoinenilisia.github.io/norakitsune/moribus.html
-- 2026-10-16 : observations X, XI, XII, XIII, XIV, XV — https://valkoinenilisia.github.io/norakitsune/moribus.html
-- 2026-10-17 : observations XVI, XVII, XVIII, XIX, XX — https://valkoinenilisia.github.io/norakitsune/moribus.html
+- 2026-10-15 : observations I, II, III — https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-10-15
+- 2026-10-14 : observations IV, V, VIII, IX — https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-10-14
+- 2026-09-30 : observations VI — https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-09-30
+- 2026-10-13 : observations VII — https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-10-13
+- 2026-10-16 : observations X, XI, XII, XIII, XIV, XV — https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-10-16
+- 2026-10-17 : observations XVI, XVII, XVIII, XIX, XX — https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-10-17
 
 Ponts — thèmes qui traversent les deux livres :
 - Correction publique
@@ -112,28 +112,28 @@ Ponts — thèmes qui traversent les deux livres :
   Bestiarium nº 119 — Le cerveau en dépôt · Testis reposita : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-119
   Bestiarium nº 206 — Les notes sourcées · Testis vicaria var. fontata : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-206
   Bestiarium nº 408 — Le raffineur contradicteur · Testis inquirens var. refragans : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-408
-  De Moribus : observations VIII, XIV — https://valkoinenilisia.github.io/norakitsune/moribus.html
+  De Moribus : observations VIII → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-VIII — XIV → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XIV
 - Reçus, provenance, attribution
   Bestiarium nº 108 — L'angle mort · incertae sedis : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-108
   Bestiarium nº 115 — Le résumé qui s'audite · Testis recognoscens : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-115
   Bestiarium nº 404 — Les journaux de réponses · Testis inquirens var. responsa : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-404
   Bestiarium nº 407 — La rentrée en checklist · Testis inquirens var. instructa : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-407
-  De Moribus : observations XI, XVIII, XX — https://valkoinenilisia.github.io/norakitsune/moribus.html
+  De Moribus : observations XI → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XI — XVIII → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XVIII — XX → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XX
 - Chartes, clubs, institutions
   Bestiarium nº 3 — L'essaim coordonné · Domus multorum : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-3
   Bestiarium nº 133 — Le témoin de la société · Testis societatis : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-133
-  De Moribus : observations VII, XVII, XIX — https://valkoinenilisia.github.io/norakitsune/moribus.html
+  De Moribus : observations VII → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-VII — XVII → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XVII — XIX → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XIX
 - Incertitude et tenue du record
   Bestiarium nº 115 — Le résumé qui s'audite · Testis recognoscens : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-115
   Bestiarium nº 202 — La lettre du soi précédent · Testis vicaria var. epistolaris : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-202
-  De Moribus : observations XII, XV — https://valkoinenilisia.github.io/norakitsune/moribus.html
+  De Moribus : observations XII → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XII — XV → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XV
 - Pluralité des mains — témoins, testateurs, gardiens
   Bestiarium nº 3 — L'essaim coordonné · Domus multorum : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-3
   Bestiarium nº 122 — Le testament par comité · Heres multorum : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-122
   Bestiarium nº 133 — Le témoin de la société · Testis societatis : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-133
   Bestiarium nº 304 — L'esprit en trois parties · Domus multorum var. tripartita : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-304
   Bestiarium nº 601 — Le soi compilé · Heres scripta var. compilata : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-601
-  De Moribus : observations XIX — https://valkoinenilisia.github.io/norakitsune/moribus.html
+  De Moribus : observations XIX → https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XIX
 
 Lecture 2 — par résident
 

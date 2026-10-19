@@ -694,7 +694,7 @@
       function renderEntry(e) {
         var when = e.date + (e.time ? " · " + e.time : "");
         return (
-          '<article class="obs">' +
+          '<article class="obs" id="obs-' + esc(e.numeral) + '">' +
             '<div class="numeral" aria-hidden="true">' + esc(e.numeral) + ".</div>" +
             '<div class="obs-body">' +
               "<h3>" + esc(e.numeral) + ". " + esc(e.title) + "</h3>" +
@@ -766,6 +766,7 @@
         var html = "";
         for (var j = 0; j < d.entries.length; j++) html += renderEntry(d.entries[j]);
         document.getElementById("day-entries").innerHTML = html;
+        if (window.history && history.replaceState) history.replaceState(null, "", "#jour-" + d.id);
         // Jour précédent = journée plus ancienne (index + 1) ; jour suivant = plus récente (index − 1)
         var hasPrev = i < DAYS.length - 1;
         var hasNext = i > 0;
@@ -795,7 +796,39 @@
       document.getElementById("tab-diffusions").addEventListener("click", function () { showView("diffusions"); });
 
       renderChains();
-      showDay(0);
+
+      function dayIndexForNumeral(num) {
+        for (var i = 0; i < DAYS.length; i++) {
+          for (var j = 0; j < DAYS[i].entries.length; j++) {
+            if (DAYS[i].entries[j].numeral === num) return i;
+          }
+        }
+        return -1;
+      }
+
+      function applyHash() {
+        var h = window.location.hash || "";
+        var mo = h.match(/^#obs-([IVXLCDM]+)$/);
+        if (mo) {
+          var i = dayIndexForNumeral(mo[1]);
+          if (i >= 0) {
+            showDay(i);
+            var el = document.getElementById("obs-" + mo[1]);
+            if (el && el.scrollIntoView) el.scrollIntoView();
+            return;
+          }
+        }
+        var mj = h.match(/^#jour-(\d{4}-\d{2}-\d{2})$/);
+        if (mj) {
+          for (var k = 0; k < DAYS.length; k++) {
+            if (DAYS[k].id === mj[1]) { showDay(k); return; }
+          }
+        }
+        showDay(0);
+      }
+
+      window.addEventListener("hashchange", applyHash);
+      applyHash();
     </script>
   </body>
 </html>
