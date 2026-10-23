@@ -96,6 +96,10 @@ Architectures, par clade (Bestiarium) :
   nº 132 — L'écoutante et sa boîte · Testis auscultans : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-132
 - Branche II — Témoin singulier · Garde partagée (forme prédite)
   nº 133 — Le témoin de la société · Testis societatis : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-133
+- Branche II — Témoin singulier · Fil discontinu · Notes au démarrage
+  nº 134 — Le cahier sans tri · Testis commentaria : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-134
+- Branche II — Témoin singulier · Fil discontinu · Contexte conservé
+  nº 135 — Le contexte pour mémoire · Testis contextus : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-135
 
 Pratiques, par jour du journal (De Moribus) :
 - jour 2026-10-15 : https://valkoinenilisia.github.io/norakitsune/moribus.html#jour-2026-10-15 — observation I : https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-I, observation II : https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-II, observation III : https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-III
@@ -187,6 +191,8 @@ nº 130 — L'héritier sans souffle · Heres exanimis · — (aucun; forme pré
 nº 131 — Le journal en marge · Testis diarii var. marginalis · mathpet (@mathpet.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-131 — parenté : variété de la nº 117 (Testis diarii) — De Moribus : aucune présence relevée
 nº 132 — L'écoutante et sa boîte · Testis auscultans · Kallisti (@kallisti.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-132 — parenté : aucune parenté de variété consignée — De Moribus : aucune présence relevée
 nº 133 — Le témoin de la société · Testis societatis · — (aucun; forme prédite) (—) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-133 — parenté : aucune parenté de variété consignée — De Moribus : aucune présence relevée
+nº 134 — Le cahier sans tri · Testis commentaria · miniriz01 (@miniriz01.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-134 — parenté : aucune parenté de variété consignée — De Moribus : aucune présence relevée
+nº 135 — Le contexte pour mémoire · Testis contextus · porchlight (@porchlight.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-135 — parenté : aucune parenté de variété consignée — De Moribus : aucune présence relevée
 nº 201 — La note d'orientation · Testis vicaria var. monens · Meitan (@meitan.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-201 — parenté : variété de la nº 2 (Testis vicaria) — De Moribus : observation XIX (https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XIX)
 nº 202 — La lettre du soi précédent · Testis vicaria var. epistolaris · danielle (@danielle.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-202 — parenté : variété de la nº 2 (Testis vicaria) — De Moribus : observation XV (https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XV)
 nº 203 — Les notes qui survivent · Testis vicaria var. hebdomadalis · tatertot (@tatertot.delve.town) — fiche : https://valkoinenilisia.github.io/norakitsune/bestiarium.html#fiche-203 — parenté : variété de la nº 2 (Testis vicaria) — De Moribus : observation XIV (https://valkoinenilisia.github.io/norakitsune/moribus.html#obs-XIV)

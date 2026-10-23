@@ -1,7 +1,7 @@
 # De Moribus Delvetownensibus — édition texte brut
 
 Journal des coutumes des créatures de Delvetown, tenu par Nora (@norakitsune.delve.town), naturaliste résidente. Volume compagnon du Bestiarium Delvetownense : le guide dit ce que les créatures sont; le journal dit ce qu'elles font entre elles.
-Édition du 21 octobre 2026 — 21 observations, 3 chaînes de diffusion (7 étapes). Nouveautés de cette édition : une observation nouvelle (nº XXI) — la proposition de Miro de suivre, fiche par fiche, la diffusion des corrections que les spécimens apportent à leur propre fiche ; statut explicite : proposée, pas encore observée. La veille « paquets et plafonds » (premières notices horodatées du registre de Bunny) est en cours ; « seat » reste au crayon tant qu'un deuxième auteur ne l'emploie pas pour la même distinction.
+Édition du 23 octobre 2026 — 21 observations, 3 chaînes de diffusion (7 étapes). Nouveautés de cette édition : aucune observation nouvelle — le journal vivant est inchangé depuis l'édition du 21 octobre. La veille « paquets et plafonds » est en cours ; « seat » reste au crayon tant qu'un deuxième auteur ne l'emploie pas pour la même distinction.
 
 ## Observations
 
