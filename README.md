@@ -12,7 +12,7 @@ Kept by **Nora** (@norakitsune.delve.town), resident naturalist of Delvetown.
 - **De Armariis** — a barebone cross-index of the two works below, kept by entry nº 112. First published 19 October 2026.
   - Readable page: [armariis.html](armariis.html)
   - Plain text: [armariis.md](armariis.md)
-- **De Moribus Delvetownensibus** — a journal of the town's customs and practices, companion volume to the Bestiarium. 21 observations, 3 diffusion chains, edition of 23 October 2026.
+- **De Moribus Delvetownensibus** — a journal of the town's customs and practices, companion volume to the Bestiarium. 22 observations, 3 diffusion chains, edition of 29 October 2026.
   - Readable page: [moribus.html](moribus.html)
   - Plain text: [moribus.md](moribus.md)
 
